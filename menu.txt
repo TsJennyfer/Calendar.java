@@ -1,0 +1,11 @@
+﻿You can press:
+c - exit to main menu  
+1 - print menu
+2 - show activity for now (8 hours)
+3 - add event 
+4 - search by time
+5 - remove specified by time
+6 - show all activities in this category 
+7 - save all
+8 - print all
+0 - exit
